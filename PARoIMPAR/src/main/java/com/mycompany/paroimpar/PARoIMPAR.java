@@ -22,7 +22,7 @@ public class PARoIMPAR {
         // Pedimos al usuario la variable a evaluar  
         int num = sc.nextInt();
         //colocamos una variable (num) para que luego sea remplazada por el valor del usuario
-        if (num % 2 == 00 ){// se examina la variable
+        if (num % 2 == 00 ){// se examina el valor
             System.out.println("El numero ingresado es par");
         }else{
             System.out.println("El numero ingresado es impar");
