@@ -26,7 +26,6 @@ public class PARoIMPAR {
             System.out.println("El numero ingresado es par");
         }else{
             System.out.println("El numero ingresado es impar");
-            //buen codigo
         }
     }
 }
